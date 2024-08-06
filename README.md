@@ -8,8 +8,8 @@
 I'm a DevOps Engineer with a background in software development. I have a B.Sc. in Computer Science from The Academic College of Tel Aviv-Yafo and I'm an AWS Certified Solutions Architect - Associate. I enjoy building scalable infrastructure and developing efficient applications.
 
 - 💼 Currently working on: [Expense App](https://github.com/MatanP12/expense-app)
-- 🌱 Learning more about: Kubernetes, Terraform, and AWS
-- 💬 Ask me about: DevOps, AWS, Kubernetes, and Full Stack Development
+- 🌱 Learning more about: Kubernetes, Terraform, and AWS, Github actions.
+- 💬 Ask me about: DevOps, AWS, Kubernetes, Docker.
 - 📫 How to reach me: [Email](mailto:matanp103@gmail.com)
 
 ## Skills
