@@ -1,15 +1,52 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/UvPosZsGWpzMtjukz4/giphy.gif" width="100"/>
-</div>
-<h1 align="center">Hi 👋, I'm Matan</h1>
-<h3 align="center">Computer Science graduate, junior developer</h3>
+# Hi there, I'm Matan Peretz! 👋
 
-- 📫 Contact me :) **matanp103@gmail.com**
+[![GitHub followers](https://img.shields.io/github/followers/MatanP12?label=Follow&style=social)](https://github.com/MatanP12)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/matan-peretz/)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/matan-peretz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="matan-peretz" height="30" width="40" /></a>
-</p>
+## About Me
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+I'm a DevOps Engineer with a background in software development. I have a B.Sc. in Computer Science from The Academic College of Tel Aviv-Yafo and I'm an AWS Certified Solutions Architect - Associate. I enjoy building scalable infrastructure and developing efficient applications.
+
+- 💼 Currently working on: [Expense App](https://github.com/MatanP12/expense-app)
+- 🌱 Learning more about: Kubernetes, Terraform, and AWS
+- 💬 Ask me about: DevOps, AWS, Kubernetes, and Full Stack Development
+- 📫 How to reach me: [Email](mailto:matanp103@gmail.com)
+
+## Skills
+
+- **DevOps:** Docker, Kubernetes, Terraform, Jenkins, AWS, ArgoCD, EFK, Prometheus, Grafana
+- **Programming Languages:** Python, JavaScript, Java, SQL, Bash
+- **Frameworks:** Flask, React, Node.js
+- **Tools:** Git, Docker Compose, Maven
+
+## Projects
+
+### [Expense App](https://github.com/MatanP12/expense-app)
+A web-based application for tracking personal expenses, with features for categorizing expenses, generating reports, and setting budgets.
+
+### [Expense App Infrastructure](https://github.com/MatanP12/expense-app-infra)
+Infrastructure as Code (IaC) for the Expense App using Terraform and AWS.
+
+### [Expense App GitOps](https://github.com/MatanP12/expense-app-gitops)
+GitOps configuration for the Expense App using ArgoCD and Kubernetes.
+
+## Experience
+
+- **DevOps Engineer**
+- **Full Stack Developer**
+- **Exercises Examiner for Introduction to Computer Science**
+
+## Education
+
+- **B.Sc. in Computer Science**, The Academic College of Tel Aviv-Yafo
+- **DevOps Professional Bootcamp**, Develeap
+
+## Certifications
+![AWS-SAA](https://d1.awsstatic.com/training-and-certification/certification-badges/AWS-Certified-Solutions-Architect-Associate_badge.3419559c682629072f1eb968d59dea0741772c0f.png)
+## Connect with Me
+
+- [LinkedIn](https://www.linkedin.com/in/matan-peretz/)
+- [Email](mailto:your-email@example.com)
+
+<!-- Optional: Add a visitor counter -->
+![Visitor Count](https://profile-counter.glitch.me/MatanP12/count.svg)
